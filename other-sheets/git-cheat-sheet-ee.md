@@ -208,7 +208,7 @@ $ git stash drop
 
 ## Search
 
-##### A text search on all files in the directory:
+##### Tekstiotsing kõigist kausta failidest:
 ```
 $ git grep "Hello"
 ```
