@@ -206,7 +206,7 @@ $ git stash drop
 
 <hr>
 
-## Search
+## Otsing
 
 ##### A text search on all files in the directory:
 ```
