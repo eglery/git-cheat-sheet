@@ -263,11 +263,11 @@ $ git reflog delete
 ```
 <hr>
 
-## Move / Rename
+## Liiguta / Nimeta ümber
 
-##### Rename a file:
+##### Muuda faili nime:
 
-Rename Index.txt to Index.html
+Muuda fail Index.txt failiks Index.html
 
 ```
 $ git mv Index.txt Index.html
