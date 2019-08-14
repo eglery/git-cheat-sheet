@@ -16,14 +16,14 @@ Git Cheat Sheet Estonian [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome
 
 <hr>
 
-## Setup
+## Sätted
 
-##### Show current configuration:
+##### Näita praegust seadet:
 ```
 $ git config --list
 ```
 
-##### Show repository configuration:
+##### Näita repository seadet:
 ```
 $ git config --local --list
 ```
@@ -33,7 +33,7 @@ $ git config --local --list
 $ git config --global --list
 ```
 
-##### Show system configuration:
+##### Näita süsteemi seadet:
 ```
 $ git config --system --list
 ```
@@ -60,7 +60,7 @@ $ git config --global core.editor vi
 
 <hr>
 
-## Configuration Files
+## Seadefailid
 
 ##### Repository specific configuration file [--local]:
 ```
@@ -81,17 +81,17 @@ $ git config --global core.editor vi
 
 ## Create
 
-##### Clone an existing repository:
+##### Klooni olemasolev hoidla:
 
-There are two ways:
+Selleks on kaks võimalust:
 
-Via SSH
+SSH kaudu
 
 ```
 $ git clone ssh://user@domain.com/repo.git
 ```
 
-Via HTTP
+HTTP kaudu
 
 ```
 $ git clone http://domain.com/user/repo.git
@@ -206,7 +206,7 @@ $ git stash drop
 
 <hr>
 
-## Otsi
+## Otsing
 
 ##### A text search on all files in the directory:
 ```
@@ -263,11 +263,11 @@ $ git reflog delete
 ```
 <hr>
 
-## Move / Rename
+## Liiguta / Nimeta ümber
 
-##### Rename a file:
+##### Muuda faili nime:
 
-Rename Index.txt to Index.html
+Muuda fail Index.txt failiks Index.html
 
 ```
 $ git mv Index.txt Index.html
