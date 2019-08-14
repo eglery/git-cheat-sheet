@@ -81,17 +81,17 @@ $ git config --global core.editor vi
 
 ## Create
 
-##### Clone an existing repository:
+##### Klooni olemasolev hoidla:
 
-There are two ways:
+Selleks on kaks võimalust:
 
-Via SSH
+SSH kaudu
 
 ```
 $ git clone ssh://user@domain.com/repo.git
 ```
 
-Via HTTP
+HTTP kaudu
 
 ```
 $ git clone http://domain.com/user/repo.git
