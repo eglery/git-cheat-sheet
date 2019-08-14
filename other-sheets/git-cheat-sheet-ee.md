@@ -60,7 +60,7 @@ $ git config --global core.editor vi
 
 <hr>
 
-## Configuration Files
+## Seadefailid
 
 ##### Repository specific configuration file [--local]:
 ```
